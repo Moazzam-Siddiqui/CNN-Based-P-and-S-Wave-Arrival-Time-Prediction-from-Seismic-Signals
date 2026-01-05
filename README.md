@@ -1,1 +1,0 @@
-# CNN-Based-P-and-S-Wave-Arrival-Time-Prediction-from-Seismic-Signals
